@@ -1,0 +1,2 @@
+# intellingent_knowledge_base
+使用langchain来搭建的本地知识库
